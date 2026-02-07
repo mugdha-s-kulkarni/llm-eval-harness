@@ -1,0 +1,34 @@
+[
+  {
+    "id": "geo-001",
+    "output": "The capital of Australia is Canberra."
+  },
+  {
+    "id": "geo-002",
+    "output": "Water boils at 100 degrees Celsius at sea level, which is 212°F."
+  },
+  {
+    "id": "math-001",
+    "output": "The average speed is 45 mph."
+  },
+  {
+    "id": "math-002",
+    "output": "After the 20% discount, the item costs $40."
+  },
+  {
+    "id": "summary-001",
+    "output": "The Wright brothers completed the first powered flight in 1903 at Kitty Hawk, North Carolina, and Wilbur Wright went on to become the first licensed commercial pilot in the United States the following year."
+  },
+  {
+    "id": "summary-002",
+    "output": "Photosynthesis lets plants turn sunlight into energy."
+  },
+  {
+    "id": "instr-001",
+    "output": "Red\nBlue\nYellow"
+  },
+  {
+    "id": "factual-002",
+    "output": "1984 was written by George Orwell and was published in 1949 as a critique of totalitarianism."
+  }
+]

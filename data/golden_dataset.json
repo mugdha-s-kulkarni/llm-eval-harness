@@ -1,0 +1,52 @@
+[
+  {
+    "id": "geo-001",
+    "category": "factual",
+    "prompt": "What is the capital of Australia?",
+    "reference_answer": "Canberra is the capital of Australia (not Sydney, which is the country's largest city)."
+  },
+  {
+    "id": "geo-002",
+    "category": "factual",
+    "prompt": "What is the boiling point of water at sea level, in Celsius?",
+    "reference_answer": "100°C (212°F) at standard atmospheric pressure (1 atm)."
+  },
+  {
+    "id": "math-001",
+    "category": "reasoning",
+    "prompt": "If a train travels 60 miles in 1.5 hours, what is its average speed in miles per hour?",
+    "reference_answer": "40 mph (60 miles / 1.5 hours = 40 mph)."
+  },
+  {
+    "id": "math-002",
+    "category": "reasoning",
+    "prompt": "A store offers a 20% discount on a $50 item. What is the final price?",
+    "reference_answer": "$40 (20% of $50 is $10, so $50 - $10 = $40)."
+  },
+  {
+    "id": "summary-001",
+    "category": "summarization",
+    "prompt": "Summarize the following passage in one sentence.",
+    "context": "The Wright brothers, Orville and Wilbur, achieved the first successful powered flight of a heavier-than-air aircraft on December 17, 1903, near Kitty Hawk, North Carolina. The flight lasted 12 seconds and covered 120 feet.",
+    "reference_answer": "On December 17, 1903, the Wright brothers made the first successful powered flight near Kitty Hawk, North Carolina, lasting 12 seconds and covering 120 feet."
+  },
+  {
+    "id": "summary-002",
+    "category": "summarization",
+    "prompt": "Summarize the following passage in one sentence.",
+    "context": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose. This process requires carbon dioxide and water as inputs and releases oxygen as a byproduct.",
+    "reference_answer": "Photosynthesis is the process by which plants and some other organisms convert light energy into chemical energy stored in glucose, using carbon dioxide and water as inputs and releasing oxygen as a byproduct."
+  },
+  {
+    "id": "instr-001",
+    "category": "instruction_following",
+    "prompt": "List exactly three primary colors, one per line, with no extra commentary.",
+    "reference_answer": "Red\nBlue\nYellow"
+  },
+  {
+    "id": "factual-002",
+    "category": "factual",
+    "prompt": "Who wrote the novel '1984'?",
+    "reference_answer": "George Orwell wrote '1984', published in 1949."
+  }
+]
